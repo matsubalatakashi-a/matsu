@@ -4,10 +4,16 @@ body {
     color: white;
 }
 
-/* h1 {
-    color: rgb(255, 255, 255);
+h1 {
+    font-weight: bold;
+    font-size: 5rem;
+    line-height: 0.5;
 }
 
 p {
-    font-size: 18px;
-} */
+    font-size: 25px;
+}
+
+li {
+    font-size: 25px;
+}
